@@ -86,15 +86,15 @@ export default function Home() {
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             </div>
-          <div className="text-center">
+          <div className="text-center flex flex-col justify-center items-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
             Apology from Adedokun Peter Akintomiwa
             </h1>
             <img src={sorry} alt="" />
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+              <h6 className="text-sm font-semibold leading-6 text-gray-900">
                 Akintomiwa4️⃣ <span aria-hidden="true">→</span>
-              </a>
+              </h6>
             </div>
           </div>
         </div>
