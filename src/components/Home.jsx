@@ -90,7 +90,7 @@ export default function Home() {
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
             Apology from Adedokun Peter Akintomiwa
             </h1>
-            <img src='https://www.imghippo.com/i/9r0T91721433435.jpg' className='w-[30vw] border border-blue-700 overflow-hidden border rounded-xl' alt='me'/>
+            <img src='https://files.fm/u/va273csmww' className='w-[30vw] border border-blue-700 overflow-hidden border rounded-xl' alt='me'/>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <h6 className="text-sm font-semibold leading-6 text-gray-900">
                 Akintomiwa4️⃣ <span aria-hidden="true">→</span>
